@@ -5,7 +5,7 @@ Mobile first Hetic project
 An existing website, re-create from scratch to build it mobile first oriented.
 
 #Link
-https://julien-dasilva.fr/enjoy/
+http://alexandrecibot.com/enjoy-my-frozen-yogurt/
 
 ## Getting Started
 
